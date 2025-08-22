@@ -1,0 +1,4 @@
+{
+"version": 2,
+"routes": [{ "src": "/api/radio", "dest": "/api/radio.js" }]
+}
